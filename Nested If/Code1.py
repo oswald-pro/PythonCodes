@@ -2,7 +2,7 @@ country = input("Enter your country name:")
 products_price = int(input("Enter the cost of the products:"))
 
 
-if country == "US"
+if country == "US":
     # print("Shipping cost is $50 ")
     if products_price <= 100:
         print ("Shipping cost is $25")
@@ -18,4 +18,4 @@ elif country == 'UK':
     else:
         print ('Free')
 else:
-    print ("Sorry ! we deliver our product only in US and UK")'''
+    print ("Sorry ! we deliver our product only in US and UK")
