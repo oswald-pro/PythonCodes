@@ -17,4 +17,4 @@ elif country == "UK":
     else:
         print('Free shipping for UK')
 else:
-    print("Sorry ! we deliver our product only in US and UK")
+    print("Sorry ! we deliver our product only in US and UK.")
